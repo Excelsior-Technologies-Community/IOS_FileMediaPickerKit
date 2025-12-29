@@ -2,7 +2,7 @@
 
 A simple SwiftUI utility to select **Images**, **Videos**, and **PDF / Files** from the device using **system pickers**, with clean result handling and minimal setup.
 
-This project focuses on **easy implementation**, not complex APIs.
+This project focuses on **easy implementation**, not complex.
 
 ---
 
@@ -11,10 +11,7 @@ This project focuses on **easy implementation**, not complex APIs.
 * 📸 Pick Images from Photo Library
 * 🎥 Pick Videos from Photo Library
 * 📄 Pick PDF / Files using system document picker
-* 🧩 Clean SwiftUI API
 * 🧼 Minimal code in your View
-* 📱 iOS 15+ compatible
-* 🔐 App Store safe (uses system pickers)
 
 ---
 
